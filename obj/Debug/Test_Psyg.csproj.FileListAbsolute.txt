@@ -1,0 +1,6 @@
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\obj\Debug\Test_Psyg.csproj.AssemblyReference.cache
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\obj\Debug\Test_Psyg.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\bin\Debug\Test_Psyg.dll
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\bin\Debug\Test_Psyg.pdb
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\obj\Debug\Test_Psyg.dll
+C:\Users\Кристина\source\repos\Project_Kristina\Test_Psyg\obj\Debug\Test_Psyg.pdb
